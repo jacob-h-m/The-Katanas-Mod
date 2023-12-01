@@ -3,7 +3,7 @@
 	"package": "net.s1ght.manyweapons.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+		"ManyWeaponsMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
