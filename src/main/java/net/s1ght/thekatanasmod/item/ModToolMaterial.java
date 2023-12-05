@@ -8,7 +8,7 @@ import java.util.function.Supplier;
 
 public enum ModToolMaterial implements ToolMaterial {
     DEMONIC_NETHERITE(5, 4048, 10.0f, 6.0f, 15,
-            () -> Ingredient.ofItems(Items.NETHERITE_INGOT));
+            () -> Ingredient.ofItems(ModItems.DEMONITE_INGOT));
 
     private final int miningLevel;
     private final int itemDurability;
