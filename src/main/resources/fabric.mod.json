@@ -5,11 +5,11 @@
 	"name": "The Katana's Mod",
 	"description": "Adds Katana's to the game!",
 	"authors": [
-		"s1ght",
-		"Eclipse Studios"
+		"s1ght"
 	],
 	"contact": {
-		"homepage": "https://legacy.curseforge.com/members/s1ght/projects"
+		"homepage": "https://github.com/s1ghtdev/The-Katanas-Mod",
+		"sources": "https://github.com/s1ghtdev/The-Katanas-Mod"
 	},
 	"license": "All Rights Reserved",
 	"icon": "assets/thekatanasmod/icon.png",
@@ -30,7 +30,7 @@
 	],
 	"depends": {
 		"fabricloader": ">=0.14.24",
-		"minecraft": "1.20.1",
+		"minecraft": "~1.20.1",
 		"java": ">=17",
 		"fabric-api": "*"
 	},
