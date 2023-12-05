@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " i",
+    "i "
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "thekatanasmod:diamond_blade",
+    "count": 1
+  }
+}

@@ -1,36 +1,36 @@
 {
 	"schemaVersion": 1,
-	"id": "manyweapons",
-	"version": "${version}",
-	"name": "manyweapons",
-	"description": "Adds many different weapons to the game!",
+	"id": "thekatanasmod",
+	"version": "1.0.2",
+	"name": "The Katana's Mod",
+	"description": "Adds Katana's to the game!",
 	"authors": [
-		"s1ght"
+		"s1ght",
+		"Eclipse Studios"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://legacy.curseforge.com/members/s1ght/projects"
 	},
 	"license": "All Rights Reserved",
-	"icon": "assets/manyweapons/icon.png",
+	"icon": "assets/thekatanasmod/icon.png",
 	"environment": "*",
 	"entrypoints": {
+		"fabric-datagen": [
+			"net.s1ght.thekatanasmod.TheKatanasModDataGenerator"
+		],
 		"main": [
-			"net.s1ght.manyweapons.ManyWeapons"
+			"net.s1ght.thekatanasmod.TheKatanasMod"
 		],
 		"client": [
-			"net.s1ght.manyweapons.ManyWeaponsClient"
-		],
-		"fabric-datagen": [
-			"net.s1ght.manyweapons.ManyWeaponsDataGenerator"
+			"net.s1ght.thekatanasmod.TheKatanasModClient"
 		]
 	},
 	"mixins": [
-		"manyweapons.mixins.json"
+		"thekatanasmod.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.14.24",
-		"minecraft": "~1.20.2",
+		"minecraft": "1.20.1",
 		"java": ">=17",
 		"fabric-api": "*"
 	},

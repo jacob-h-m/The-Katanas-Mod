@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " i",
+    "i "
+  ],
+  "key": {
+    "i": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "thekatanasmod:wooden_blade",
+    "count": 1
+  }
+}

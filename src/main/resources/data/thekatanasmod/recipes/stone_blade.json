@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " i",
+    "i "
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result": {
+    "item": "thekatanasmod:stone_blade",
+    "count": 1
+  }
+}

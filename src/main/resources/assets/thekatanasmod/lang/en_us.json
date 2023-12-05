@@ -1,0 +1,27 @@
+{
+  "item.thekatanasmod.wooden_katana": "Wooden Katana",
+  "item.thekatanasmod.stone_katana": "Stone Katana",
+  "item.thekatanasmod.iron_katana": "Iron Katana",
+  "item.thekatanasmod.golden_katana": "Golden Katana",
+  "item.thekatanasmod.diamond_katana": "Diamond Katana",
+  "item.thekatanasmod.netherite_katana": "Netherite Katana",
+
+  "item.thekatanasmod.wooden_blade": "Wooden Blade",
+  "item.thekatanasmod.stone_blade": "Stone Blade",
+  "item.thekatanasmod.iron_blade": "Iron Blade",
+  "item.thekatanasmod.golden_blade": "Golden Blade",
+  "item.thekatanasmod.diamond_blade": "Diamond Blade",
+  "item.thekatanasmod.netherite_blade": "Netherite Blade",
+
+  "item.thekatanasmod.muramasa": "Muramasa",
+
+  "item.thekatanasmod.demonite_ingot": "Demonite Ingot",
+  "item.thekatanasmod.heavenly_handle": "Heavenly Handle",
+
+  "block.thekatanasmod.demonite_ore": "Demonite Ore",
+  "item.thekatanasmod.demonite": "Demonite",
+  "item.thekatanasmod.demonite_ingot": "Demonite Ingot",
+  "item.thekatanasmod.demonite_blade": "Demonite Blade",
+
+  "itemgroup.thekatanasmod": "The Katana's Mod"
+}

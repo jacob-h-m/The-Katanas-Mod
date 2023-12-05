@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "thekatanasmod:item/heavenly_handle"
+  }
+}
