@@ -6,14 +6,14 @@
   ],
   "key": {
     "#": {
-      "item": "thekatanasmod:demonite_blade"
+      "item": "thekatanasmod:cincinnasite_blade"
     },
     "/": {
-      "item": "thekatanasmod:heavenly_handle"
+      "item": "betternether:nether_reed_stem"
     }
   },
   "result": {
-    "item": "thekatanasmod:muramasa",
+    "item": "thekatanasmod:cincinnasite_katana",
     "count": 1
   }
 }

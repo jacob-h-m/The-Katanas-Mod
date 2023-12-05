@@ -11,7 +11,6 @@
   "item.thekatanasmod.iron_blade": "Iron Blade",
   "item.thekatanasmod.golden_blade": "Golden Blade",
   "item.thekatanasmod.diamond_blade": "Diamond Blade",
-  "item.thekatanasmod.netherite_blade": "Netherite Blade",
 
   "item.thekatanasmod.muramasa": "Muramasa",
 
@@ -22,6 +21,13 @@
   "item.thekatanasmod.demonite": "Demonite",
   "item.thekatanasmod.demonite_ingot": "Demonite Ingot",
   "item.thekatanasmod.demonite_blade": "Demonite Blade",
+
+  "item.thekatanasmod.cincinnasite_blade": "Cincinnasite Blade",
+  "item.thekatanasmod.cincinnasite_diamond_blade": "Cincinnasite-Diamond Blade",
+  "item.thekatanasmod.cincinnasite_katana": "Cincinnasite Katana",
+  "item.thekatanasmod.cincinnasite_diamond_katana": "Cincinnasite-Diamond Katana",
+  "item.thekatanasmod.nether_ruby_katana": "Nether Ruby Katana",
+  "item.thekatanasmod.nether_ruby_blade": "Nether Ruby Blade",
 
   "itemgroup.thekatanasmod": "The Katana's Mod"
 }

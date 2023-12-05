@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " i",
+    "i "
+  ],
+  "key": {
+    "i": {
+      "item": "betternether:nether_ruby"
+    }
+  },
+  "result": {
+    "item": "thekatanasmod:nether_ruby_blade",
+    "count": 1
+  }
+}

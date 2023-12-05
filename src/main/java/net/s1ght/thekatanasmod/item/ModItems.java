@@ -35,8 +35,6 @@ public class ModItems {
             new Item(new FabricItemSettings()));
     public static final Item DIAMOND_BLADE = registerItem("diamond_blade",
             new Item(new FabricItemSettings()));
-    public static final Item NETHERITE_BLADE = registerItem("netherite_blade",
-            new Item(new FabricItemSettings()));
 
     public static final Item DEMONITE_INGOT = registerItem("demonite_ingot",
             new Item(new FabricItemSettings()));

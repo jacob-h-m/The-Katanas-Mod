@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " i",
+    "i "
+  ],
+  "key": {
+    "i": {
+      "item": "thekatanasmod:demonite_ingot"
+    }
+  },
+  "result": {
+    "item": "thekatanasmod:demonite_blade",
+    "count": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "betternether:cincinnasite_diamond_upgrade_smithing_template"
+  },
+  "base": {
+    "item": "thekatanasmod:cincinnasite_katana"
+  },
+  "addition": {
+    "item": "minecraft:diamond"
+  },
+  "result": {
+    "item": "thekatanasmod:cincinnasite_diamond_katana"
+  }
+}
